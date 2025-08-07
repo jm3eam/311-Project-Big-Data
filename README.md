@@ -12,3 +12,6 @@
 *Recommended resource reallocation strategies and performance improvement actions for underperforming departments.
 
 Colab with Laura Cerpa @ MIAMI DADE COLLEGE
+
+
+[311 Service Request Analysis – Miami-Dade County (Capstone Project).pdf](https://github.com/user-attachments/files/21649445/311.Service.Request.Analysis.Miami-Dade.County.Capstone.Project.pdf)
